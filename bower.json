@@ -1,0 +1,14 @@
+{
+  "name": "teste",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "http://localhost/teste",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
